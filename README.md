@@ -1,3 +1,7 @@
+WARNING: Unauthorized copying, cloning, or reproduction of this project or idea is STRICTLY prohibited.  
+This project is protected under Creative Commons BY-NC-ND 4.0.  
+Violators may face legal or platform-based takedown actions.
+
 # GH UniMart – Student Marketplace
 
 **Author:** Mahama Yakubu  
