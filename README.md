@@ -5,7 +5,7 @@ Violators may face legal or platform-based takedown actions.
 # GH UniMart – Student Marketplace
 
 **Author:** Mahama Yakubu  (Quark)
-**University:** University Of Energy and Natural Resources-UENR
+**University:** UENR
 **Index No.:** UEB1115824  
 
 GH UniMart is a digital platform designed for students to safely buy, sell, and trade items across all university campuses in Ghana. It includes features such as:
